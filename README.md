@@ -2,9 +2,6 @@
 
 **Resep App** adalah aplikasi Android yang membantu pengguna mencari dan menyimpan berbagai resep makanan dengan mudah. Aplikasi ini dikembangkan menggunakan **Android Studio Meerkat** dan menyimpan data secara real-time menggunakan **Firebase Realtime Database**.
 
-## 📸 Screenshot
-<!-- Tambahkan gambar jika ada -->
-<!-- ![Screenshot](https://link-ke-gambar.com/screenshot1.png) -->
 
 ## 🚀 Fitur Utama
 
