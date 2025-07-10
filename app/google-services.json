@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997918153610",
+    "project_id": "uas-pam-792e1",
+    "storage_bucket": "uas-pam-792e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997918153610:android:cee3b82f9c04bf123cc673",
+        "android_client_info": {
+          "package_name": "com.example.resepapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDD-hRm1C1rY1WQuK-SsW0I7oyh_XeVsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
