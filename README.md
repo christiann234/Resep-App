@@ -23,3 +23,19 @@
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/username/ResepApp.git
+
+## 📂 Struktur Proyek
+
+Berikut adalah beberapa file dan direktori penting dalam proyek ini:
+
+-   `app/src/main/java/com/yourcompany/resepapp/`: Direktori utama untuk kode sumber Java/Kotlin Anda.
+-   `app/src/main/res/layout/`: Berisi file layout XML untuk antarmuka pengguna.
+-   `app/google-services.json`: File konfigurasi Firebase Anda (penting untuk fungsionalitas aplikasi).
+-   `build.gradle (Project)`: File Gradle level proyek untuk konfigurasi build global.
+-   `build.gradle (Module: app)`: File Gradle level modul untuk dependensi dan konfigurasi spesifik aplikasi.
+-   `gradle.properties`: Pengaturan Gradle di seluruh proyek.
+-   `.gitignore`: Mengatur file dan folder yang diabaikan oleh Git.
+
+https://github.com/YourGitHubUsername/ResepApp.git
+git remote add origin https://github.com/YourGitHubUsername/ResepApp.git
+git push -u origin main
