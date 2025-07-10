@@ -22,7 +22,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/ResepApp.git
+git clone https://github.com/christiann234/ResepApp.git
 
 ## 📂 Struktur Proyek
 
@@ -36,6 +36,6 @@ Berikut adalah beberapa file dan direktori penting dalam proyek ini:
 -   `gradle.properties`: Pengaturan Gradle di seluruh proyek.
 -   `.gitignore`: Mengatur file dan folder yang diabaikan oleh Git.
 
-https://github.com/YourGitHubUsername/ResepApp.git
-git remote add origin https://github.com/YourGitHubUsername/ResepApp.git
+https://github.com/christiann234/ResepApp.git
+git remote add origin https://github.com/christiann234/ResepApp.git
 git push -u origin main
