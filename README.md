@@ -20,7 +20,7 @@ Untuk mendapatkan salinan lokal proyek ini dan menjalankannya, ikuti langkah-lan
 1. Clone Repositori
 Buka terminal atau Command Prompt Anda, lalu jalankan perintah berikut:
 
-**git clone https://github.com/christiann234/ResepApp.git**
+**git clone https://github.com/christiann234/Resep-App.git**
 
 2. Buka Proyek di Android Studio
 Setelah proses kloning selesai, buka folder ResepApp yang baru saja diunduh menggunakan Android Studio Meerkat.
